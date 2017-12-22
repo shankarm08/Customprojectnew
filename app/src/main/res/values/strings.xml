@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GaneshWedsAshika</string>
+    <string name="title_wedd">Wedd</string>
+    <string name="title_home">Home</string>
+    <string name="title_location">Location</string>
+    <string name="title_countdown">Countdown</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_photo_album">Photoalbum</string>
+    <string name="wedd">
+        "Ganesh and Ashika \n
+            along with their Families \n
+        Request the pleasure of your company \n
+        at celebration of marriage \n
+        on 23rd Nov 2017 at 10:00am \n
+        and Reception to follow\n
+        From 7:00pm onwards\n
+        Venue  \n
+        AGN Kalyana Mantapa  \n
+        1st cross rd,Omkar Nagar,Arekere \n
+        Bangalore 560076"</string>
+    <string name="date">Save your date 23rd November 2017  \n
+                         10 Am wedding and 7 pm Reception
+                        </string>
+</resources>
